@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ShopDEVICES</string>
+    <string name="details_text">Details: %1$s</string>
+    <string name="status_available_text">Status: available</string>
+    <string name="status_unavailable_text">Status: unavailable</string>
+    <string name="devices_title_text">Devices</string>
+    <string name="call_api_error_message">Error in calling the api of getting devices !</string>
+    <string name="ok_text">Ok</string>
+    <string name="price_text">Price</string>
+    <string name="description_text">Description</string>
+    <string name="type_text">Type</string>
+    <string name="loading_data_text">Loading data … </string>
+    <string name="version_text">Version</string>
+    <string name="shop_devices_text">Shop of devices</string>
+    <string name="shopping_cart_text">Shopping cart</string>
+    <string name="no_device_in_cart">The cart is empty, no device added to it !</string>
+    <string name="quit_app_text">Do you want to quit the application ?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="add_numberDevices_text">Add the number of devices</string>
+    <string name="numberDevices_text">Number of devices :</string>
+    <string name="valid_text">Valid</string>
+    <string name="pay_text">Pay</string>
+    <string name="number_text">Number</string>
+    <string name="list_devices_cart_text">List of devices in the cart</string>
+    <string name="add_number_error_text">You must add a number !</string>
+    <string name="number_greater_than_zero_error_text">You must add a number greater than zero!</string>
+    <string name="device_added_text">Device is added to the cart succefully !</string>
+    <string name="sum_payment_text">Sum of payment</string>
+    <string name="confirm_cart_text">Do you want to confirm this cart ?</string>
+    <string name="cart_created_text">Cart created succefully </string>
+    <string name="shop_devices_title">Shop of devices online</string>
+</resources>

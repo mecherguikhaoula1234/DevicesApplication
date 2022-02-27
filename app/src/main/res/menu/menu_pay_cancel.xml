@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schémas .android.com / apk / res-auto">
+    <item
+        android:id="@+id/pay_button"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_payment_24"
+        android:title="@string/pay_text"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cancel_button"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="@string/cancel_text"
+        app:showAsAction="ifRoom" />
+</menu>

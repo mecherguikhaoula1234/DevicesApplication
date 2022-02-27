@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.managedevices">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name=".Views.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_devices_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_devices_launcher_round"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/Theme.ManageDevices">
+        <activity
+            android:name=".Views.SplashScreenActivity"
+            android:exported="true"
+            tools:node="merge">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Views.DeviceInformationActivity"
+                  android:windowSoftInputMode="adjustPan"
+                  android:launchMode="singleTop"
+                  android:exported="false"
+                  tools:node="merge"/>
+        <activity android:name=".Views.ListDevicesShopActivity"
+                  android:launchMode="singleTop"
+                  android:exported="false"
+                  tools:node="merge"/>
+        <activity android:name=".Views.MainMenuActivity"
+                  android:launchMode="singleTop"
+                  android:exported="false"
+                  tools:node="merge"/>
+        <activity android:name=".Views.ListDevicesCartActivity"
+                  android:launchMode="singleTop"
+                  android:exported="false"
+                  tools:node="merge"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bordure_listview.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.3630769230769231" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.3630769230769231" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2078125" />
+        <entry key="app/src/main/res/drawable/ic_baseline_wifi_protected_setup_24.xml" value="0.2140625" />
+        <entry key="app/src/main/res/drawable/ic_devices_launcher_foreground.xml" value="0.2078125" />
+        <entry key="app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.33425925925925926" />
+        <entry key="app/src/main/res/layout/activity_device_information.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2875905797101449" />
+        <entry key="app/src/main/res/layout/activity_list_devices_cart.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_mainmenu.xml" value="0.2667572463768116" />
+        <entry key="app/src/main/res/layout/activity_shop_of_devices.xml" value="0.16757246376811594" />
+        <entry key="app/src/main/res/layout/activity_shopping_cart.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/customview_number_devices.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout/item_device.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/item_device_cart.xml" value="0.1953125" />
+        <entry key="app/src/main/res/menu/menu_home.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/menu/menu_pay_cancel.xml" value="0.1953125" />
+        <entry key="app/src/main/res/menu/menu_valid_cancel.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2078125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
